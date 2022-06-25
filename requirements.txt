@@ -1,6 +1,6 @@
 pympler==0.9.0
 aiofiles==0.6.0
-aiohttp==3.7.3
+aiohttp==3.8.1
 async-timeout==3.0.1
 attrs==20.3.0
 blinker==1.4
